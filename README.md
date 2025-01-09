@@ -1,4 +1,8 @@
-# 2025/01/09:git
+<<<<<<< HEAD
+
+# 2025-01-09-Git
+
+> > > > > > > 97befe478a7caaffe8c992d96539d9009d8b1da2
 
 - 'git clone': does a one-time download from github to your local computer
 
